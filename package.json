@@ -2,7 +2,7 @@
   "name": "estado-de-los-componentes-y-eventos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PaulaMontiel.github.io//estado-de--componentes",
+  "homepage": "https://paulamontiel.github.io//estado-de--componentes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
